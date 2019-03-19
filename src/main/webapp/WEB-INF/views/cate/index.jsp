@@ -32,6 +32,5 @@
         </table>
     </s:if>
    <a href="./deleteAll">Delete All</a>
-<!--    <a href="/QLHocSinh/hocsinh/reset">Reset</a>-->
     </body>
 </html>
